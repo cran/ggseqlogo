@@ -1,13 +1,13 @@
-9c33b9cc55315defcaaf0304e13e2cb9 *DESCRIPTION
+2fc9c8b8d193ec895362edca4a99f80a *DESCRIPTION
 e1876c5c8566167ffb84ca49b3ea9947 *NAMESPACE
 5c257b11f7d81496b10282615c604b46 *R/align.r
 afc90f23fc14653df3ec75dc96289065 *R/col_schemes.r
 13b1a6ed5db465264d2c36ca5249ea07 *R/ggseqlogo.r
-0296ef30a22d7fd98accc1f7afd7a12e *R/heights.r
-1fb1e6f74d0fafbafbf348b6e4d306b3 *build/vignette.rds
+1082182bf4333efeda6ce25e7c9dc94b *R/heights.r
+3aa7c1106c297f202b1956c3b3175a28 *build/vignette.rds
 e59880f7c4372bb7673e5d6c914b4737 *data/ggseqlogo_sample.rda
-89858a42580cd57f367da565531f8e2a *inst/doc/ggseqlogo_introduction.Rmd
-233ba0078a0f9ffa42d0ef096b77d54c *inst/doc/ggseqlogo_introduction.html
+6adbd54256b515e9991862c9ded21658 *inst/doc/ggseqlogo_introduction.Rmd
+e64b5a0b7c2a4dd9f646950bb55ea270 *inst/doc/ggseqlogo_introduction.html
 cb142cc4e020d20d8436ddb65652b411 *inst/extdata/akrobat_bold.font
 79db0ca99345902380bc0952a3054235 *inst/extdata/akrobat_regular.font
 ce5b35b35db1afa9e4619561f1879865 *inst/extdata/helvetica_bold.font
@@ -30,4 +30,4 @@ f0f7f096819c9f4e8dc19931716108d9 *man/list_fonts.Rd
 1fb69e3f042751001178feaaca5674b7 *man/seqs_aa.Rd
 ad28431426e1befc17ac76bf064fbbc7 *man/seqs_dna.Rd
 1f287a60ec2fd29f54df046fb12047c6 *man/theme_logo.Rd
-89858a42580cd57f367da565531f8e2a *vignettes/ggseqlogo_introduction.Rmd
+6adbd54256b515e9991862c9ded21658 *vignettes/ggseqlogo_introduction.Rmd
